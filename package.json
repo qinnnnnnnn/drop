@@ -1,0 +1,30 @@
+{
+  "name": "drop",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.8.0",
+    "react-native-swiper": "^1.3.0",
+    "react-timer-mixin": "^0.13.2"
+  },
+  "description": "RSS reader",
+  "main": "index.ios.js",
+  "devDependencies": {},
+  "keywords": [
+    "rss",
+    "react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinnnnnnnn/drop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/qinnnnnnnn/drop/issues"
+  },
+  "homepage": "https://github.com/qinnnnnnnn/drop#readme",
+  "author": "qinyuweifff@hotmail.com",
+  "license": "MIT"
+}
